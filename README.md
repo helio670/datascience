@@ -11,9 +11,10 @@ This is a “follow along” class, meaning that you will be working on your com
 ### Heliophysics Development Series
 ### Data Science Packages for python
 
-
 May 28, 2019 
+
 Building 21 Room 183A
+
 | Time | Topic |
 |------|-------|
 | 09:00 - 09:30 | setup & questions |
