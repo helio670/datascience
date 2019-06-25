@@ -15,12 +15,12 @@ May 28, 2019
 
 Building 21 Room 183A
 
-| Time | Topic |
-|------|-------|
-| 09:00 - 09:30 | setup & questions |
-| 09:30 – 11:00 | Advanced NumPy (Daniel Da Silva) |
-| 11:00 – 12:00 | Advanced Pandas (Brent Smith/Jules Kouatchou) |
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 14:00 | Introduction to Dask (Brent Smith) |
-| 14:00 - 15:30 | Real-Time Data Science Applications (Brent Smith) |
-| 15:30 - 16:00 | Q&A |
+| Time | Topic | Link |
+|------|-------|------|
+| 09:00 - 09:30 | setup & questions | |
+| 09:30 – 11:00 | Advanced NumPy (Daniel Da Silva) | [Link](https://github.com/helio670/datascience/tree/master/numpy) |
+| 11:00 – 12:00 | Advanced Pandas (Brent Smith/Jules Kouatchou) | [Link](https://github.com/helio670/datascience/tree/master/pandas) |
+| 12:00 - 13:00 | Lunch | |
+| 13:00 - 14:00 | Introduction to Dask (Brent Smith) | [Link](https://github.com/helio670/datascience/tree/master/dask) |
+| 14:00 - 15:30 | Real-Time Data Science Applications (Brent Smith) | [Link](https://github.com/helio670/datascience/tree/master/realtime_analytics) |
+| 15:30 - 16:00 | Q&A | |
